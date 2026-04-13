@@ -13,5 +13,5 @@ https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID
 Python • Requests • Sheety API
 
 
+<img width="528" height="158" alt="image" src="https://github.com/user-attachments/assets/d1d4e441-f477-4ee8-9fd3-cd9bc34346e7" />
 
-<img width="528" height="174" alt="image" src="https://github.com/user-attachments/assets/9c341d76-af34-4217-9061-152485adbbb2" />
