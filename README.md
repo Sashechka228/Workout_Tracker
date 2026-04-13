@@ -11,7 +11,8 @@ https://docs.google.com/spreadsheets/d/1nUhg_wDcmPtPZnSH0F7U9mwrKj03OEXl0EUr9xB8
 
 ## Tech
 Python • Requests • Sheety API
-
+## Future updates
+- Add Telegram Bot
 
 <img width="528" height="158" alt="image" src="https://github.com/user-attachments/assets/d1d4e441-f477-4ee8-9fd3-cd9bc34346e7" />
 
