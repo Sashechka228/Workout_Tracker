@@ -1,4 +1,4 @@
-# Workout_Tracker
+# Workout Tracker
 Simple workout tracker in Python that logs training sessions to Google Sheets via Sheety API.
 
 ## Features
