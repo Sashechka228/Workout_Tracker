@@ -7,7 +7,7 @@ Simple workout tracker in Python that logs training sessions to Google Sheets vi
 - Simple CLI input
 
 ## Data storage
-https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID
+https://docs.google.com/spreadsheets/d/1nUhg_wDcmPtPZnSH0F7U9mwrKj03OEXl0EUr9xB89Pw
 
 ## Tech
 Python • Requests • Sheety API
